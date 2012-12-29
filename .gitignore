@@ -1,0 +1,14 @@
+/cvoicecontrol/docs/en/Makefile
+/cvoicecontrol/docs/Makefile
+
+*.o
+/cvoicecontrol/Makefile
+/cvoicecontrol/cvoicecontrol
+/cvoicecontrol/microphone_config
+
+/config.log
+/config.cache
+/config.status
+/Makefile
+/config.h
+/stamp-h
